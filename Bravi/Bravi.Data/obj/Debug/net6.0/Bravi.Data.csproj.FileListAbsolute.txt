@@ -1,0 +1,15 @@
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\bin\Debug\net6.0\Bravi.Data.deps.json
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\bin\Debug\net6.0\Bravi.Data.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\bin\Debug\net6.0\Bravi.Data.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\bin\Debug\net6.0\Bravi.Domain.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\bin\Debug\net6.0\Bravi.Domain.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.AssemblyInfoInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.AssemblyInfo.cs
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.csproj.CopyComplete
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\refint\Bravi.Data.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\ref\Bravi.Data.dll

@@ -1,8 +1,19 @@
+using Bravi.Data.Context;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
+builder.Configuration.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+builder.Services.AddDbContext<BraviContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BraviDB")).EnableSensitiveDataLogging();
+});
+
 
 var app = builder.Build();
 

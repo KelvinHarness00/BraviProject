@@ -9,15 +9,19 @@ import { NavMenuComponent } from './nav-menu/nav-menu.component';
 import { HomeComponent } from './home/home.component';
 import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
+import { UsersComponent } from './users/users.component';
+import { ContactsComponent } from './contacts/contacts.component';
 
 @NgModule({
-  declarations: [
+  declarations: [			
     AppComponent,
     NavMenuComponent,
     HomeComponent,
     CounterComponent,
-    FetchDataComponent
-  ],
+    FetchDataComponent,
+      UsersComponent,
+      ContactsComponent
+   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
