@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Bravi.Data.Context.Extensions;
 
 namespace Bravi.Data.Context

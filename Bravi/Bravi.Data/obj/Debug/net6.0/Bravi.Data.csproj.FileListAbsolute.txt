@@ -13,3 +13,5 @@ C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\
 C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\refint\Bravi.Data.dll
 C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.pdb
 C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\ref\Bravi.Data.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\bin\Debug\net6.0\Bravi.Data.runtimeconfig.json
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Data\obj\Debug\net6.0\Bravi.Data.genruntimeconfig.cache

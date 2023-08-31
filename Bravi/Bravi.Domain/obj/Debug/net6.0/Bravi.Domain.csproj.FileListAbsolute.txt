@@ -9,3 +9,4 @@ C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Domai
 C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Domain\obj\Debug\net6.0\refint\Bravi.Domain.dll
 C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Domain\obj\Debug\net6.0\Bravi.Domain.pdb
 C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Domain\obj\Debug\net6.0\ref\Bravi.Domain.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.Domain\obj\Debug\net6.0\Bravi.Domain.csproj.AssemblyReference.cache

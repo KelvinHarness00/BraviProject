@@ -1,0 +1,17 @@
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\bin\Debug\net6.0\Bravi.IoC.deps.json
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\bin\Debug\net6.0\Bravi.IoC.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\bin\Debug\net6.0\Bravi.IoC.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\bin\Debug\net6.0\Bravi.Application.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\bin\Debug\net6.0\Bravi.Application.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.AssemblyInfoInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.AssemblyInfo.cs
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.csproj.CopyComplete
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\refint\Bravi.IoC.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\ref\Bravi.IoC.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\bin\Debug\net6.0\Bravi.IoC.runtimeconfig.json
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\Bravi\Bravi.IoC\obj\Debug\net6.0\Bravi.IoC.genruntimeconfig.cache
