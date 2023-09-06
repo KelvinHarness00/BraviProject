@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelvi\\OneDrive\\Área de Trabalho\\BraviPirmeiraQuest\\BraviPirmeiraQuest\\BraviPirmeiraQuest.csproj",
+      "projectUniqueName": "C:\\Users\\kelvi\\OneDrive\\Documentos\\Projetos\\Bravi\\BraviProject\\BraviPirmeiraQuest\\BraviPirmeiraQuest\\BraviPirmeiraQuest.csproj",
       "projectName": "BraviPirmeiraQuest",
-      "projectPath": "C:\\Users\\kelvi\\OneDrive\\Área de Trabalho\\BraviPirmeiraQuest\\BraviPirmeiraQuest\\BraviPirmeiraQuest.csproj",
+      "projectPath": "C:\\Users\\kelvi\\OneDrive\\Documentos\\Projetos\\Bravi\\BraviProject\\BraviPirmeiraQuest\\BraviPirmeiraQuest\\BraviPirmeiraQuest.csproj",
       "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelvi\\OneDrive\\Área de Trabalho\\BraviPirmeiraQuest\\BraviPirmeiraQuest\\obj\\",
+      "outputPath": "C:\\Users\\kelvi\\OneDrive\\Documentos\\Projetos\\Bravi\\BraviProject\\BraviPirmeiraQuest\\BraviPirmeiraQuest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

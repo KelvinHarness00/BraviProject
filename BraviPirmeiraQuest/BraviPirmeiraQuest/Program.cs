@@ -78,6 +78,7 @@ class Program
 
 
 
+
     static void Main(string[] args)
     {
         Console.Write("Digite a sequência de parênteses: ");

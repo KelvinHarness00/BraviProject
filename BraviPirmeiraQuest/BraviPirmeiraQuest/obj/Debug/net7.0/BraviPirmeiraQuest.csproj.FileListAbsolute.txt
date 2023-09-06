@@ -12,3 +12,17 @@ C:\Users\kelvi\OneDrive\Área de Trabalho\BraviPirmeiraQuest\BraviPirmeiraQuest\
 C:\Users\kelvi\OneDrive\Área de Trabalho\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.pdb
 C:\Users\kelvi\OneDrive\Área de Trabalho\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.genruntimeconfig.cache
 C:\Users\kelvi\OneDrive\Área de Trabalho\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\ref\BraviPirmeiraQuest.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\bin\Debug\net7.0\BraviPirmeiraQuest.exe
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\bin\Debug\net7.0\BraviPirmeiraQuest.deps.json
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\bin\Debug\net7.0\BraviPirmeiraQuest.runtimeconfig.json
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\bin\Debug\net7.0\BraviPirmeiraQuest.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\bin\Debug\net7.0\BraviPirmeiraQuest.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.AssemblyInfoInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.AssemblyInfo.cs
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\refint\BraviPirmeiraQuest.dll
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.pdb
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\BraviPirmeiraQuest.genruntimeconfig.cache
+C:\Users\kelvi\OneDrive\Documentos\Projetos\Bravi\BraviProject\BraviPirmeiraQuest\BraviPirmeiraQuest\obj\Debug\net7.0\ref\BraviPirmeiraQuest.dll
